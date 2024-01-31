@@ -1,0 +1,15 @@
+
+
+body{
+    background-color: black;
+}
+.Clock{
+    color: white;
+    margin-top: 50%;
+    margin-left: 920px;
+    margin-bottom: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    font-family: 'Gill Sans';
+    font-size: 48px;
+    
+}
